@@ -1,11 +1,10 @@
-<div align="center">
+
 
 # AI For Social Good
 
 ## Suicidal Detection In Online Social Content
 
-<img src="Assets/web.gif" > 
-</div>
+
 
 ---
 
@@ -18,13 +17,7 @@ The rise of social media and online communities creates safe and anonymous space
 Collected two sets of data from Reddit and Twitter. The Reddit data set includes (2958) suicidal ideation samples and a number of non-suicide texts (5381). The Twitter dataset has a total (3000) tweets with suicidal ideation.
 Reddit Data was scraped from subreddits like 'suicide watch', 'depression', 'anxiety' etc. Twitter data was collected by querying keywords like 'end my life', 'die' etc.
 
-**The Twitter word cloud (left) and Reddit word cloud (right) are shown as follow:**
 
-<div align="center">
- <img alt="Demo" src="./WordClouds/twitter.png" height="300px" width="400px" />
- &nbsp; &nbsp;
- <img alt="Demo" src="./WordClouds/reddit.png" height="300px" width="400px"/>
-</div>
 
 ## Feature Processing and Training
 
